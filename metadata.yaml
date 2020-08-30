@@ -1,0 +1,24 @@
+_repo: The-Civil-War-Battles-of-Chickamauga-and-Chattanooga_62977
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rogers, Jesse Littleton
+    birthdate: 1907
+    gutenberg_agent_id: '52208'
+    url: http://www.gutenberg.org/2009/agents/52208
+description: ''
+gutenberg_issued: '2020-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62977'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Chickamauga, Battle of, Ga., 1863'
+- !lcsh 'Chattanooga, Battle of, Chattanooga, Tenn., 1863'
+- GITenberg
+title: The Civil War Battles of Chickamauga and Chattanooga
+url: http://www.gutenberg.org/ebooks/62977
